@@ -1,0 +1,145 @@
+#score, #text ,#timer{
+    color:green;
+    text-decoration: none;
+    margin-left: 26%;
+    margin-top:10%;
+  }
+  body{
+    background-color: lightblue;
+    overflow: hidden;
+  }
+  #button{
+    margin-left: 47%;
+    text-decoration: none;
+    font-size: 50px;
+    color: green;
+    background-color: lightblue;
+    border-radius: 70px;
+    height: 120px;
+    width: 140px;
+
+    
+  }
+  #text2
+  {
+    display: none;
+    color:pink;
+  }
+  #timer
+  {
+    display: none;
+    color:cadetblue;
+  }
+  #text, #timer, #score{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+    margin-top: 50px;
+  }
+  #text
+  {
+    margin-top:200px;
+  }
+  #winlose
+  {
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+  }
+  img
+  {
+    display: none;
+  }
+  #a2{
+    transform: translateY(70%);
+    margin-left: 70%;
+    width:350px;
+    height: 250px;
+  }
+  #a3{
+    transform:translateX(200%);
+    margin-bottom:50px;
+    width:300px;
+    height: 200px;
+  }
+  #a4
+  {
+    transform: translateY(200%);
+    width:250px;
+    height:150px;
+  }
+  #a5
+  {
+    transform:translateX(200%);
+    width:200px;
+    height:100px;
+  }
+  #a6
+  {
+    transform:translateX(300%);
+    margin-top:600px;
+    width:175px;
+    height:85px;
+  }
+  #a7
+  {
+    transform:translateY(500%);
+    margin-left:1700px;
+    width:150px;
+    height:70px;
+  }
+  #score
+  {
+    display:none;
+    position: fixed;
+    right: 0px; bottom: 0px;
+    width: 100px;
+    height:20px;
+    padding: 5px;
+  }
+
+  #Lose
+  {
+    display:none;
+    transform: translateY(25%);
+    margin-left:750px;
+  }
+  
+  #textlose
+  {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    margin-left:40px;
+  }
+  #buttonlose
+  {
+    font-size:40px;
+    margin-left:100px;
+    margin-top:10px;
+    background-color: brown;
+  }
+
+  #Win
+  {
+    display:none;
+    transform: translateY(25%);
+    margin-left:750px;
+  }
+
+  #textwin
+  {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 70px;
+  }
+  #github
+  {
+    font-size:30px;
+    margin-left:60px;
+    margin-top:10px;
+    background-color: pink;
+  }
+  #menu
+  {
+    font-size:30px;
+    background-color: pink;
+  }
+ 
